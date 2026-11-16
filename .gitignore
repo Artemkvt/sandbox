@@ -1,0 +1,8 @@
+# Course-provided lab instructions are linked from GitHub rather than copied here.
+lab.md
+
+# Keep private oral-defense notes out of the public repository.
+defense_explanations.txt
+
+# Compiled executables; keep the C++ sources.
+task[1-6]
